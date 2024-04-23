@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pl">
+    <meta charset="UTF-8">
+    <header>
+        <link rel="stylesheet" href="style.css">
+        <section id="Header"><h1><b>DZIEŃ ZIEMI 2024</b></h1></section>
+        </header>
+    <main>
+        <title>DZIEN ZIEMI 2024</title>
+        <section id="menu">
+        <a href="index.html">Start</a><br><br><br><br><br>
+            
+            <a href="cmz.html">Co mogę zrobić?</a><br><br><br><br><br>
+
+            
+            <a href="linki.html">Linki</a><br><br><br><br><br>
+        </section>
+        <section id="menu2">
+         <b><a href="https://pl.wikipedia.org/wiki/Ekologia">Opis ekologii w wikipedii</a><br><br><br><br></b>
+           <b><a href="https://www.national-geographic.pl/artykul/ekologia-co-to-jest-ekologia-i-czym-sie-zajmuje-czy-wlasciwie-zajmuja-sie-ekolodzy">Popularnonaukowy miesięcznik poświęcony geografii</a><br><br><br></b>
+            <b><a href="https://www.ekologia.pl/">Portal informacyjny o ekologii</a><br><br><br></b>
+          </section>            
+    </main>
+    <section>
+    <footer>
+        <secion id="footer">Autor:Gabriel Bekier</secion>
+    </footer>
+    </section>
+</html>

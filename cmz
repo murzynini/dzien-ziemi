@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pl">
+    <meta charset="UTF-8">
+    <header>
+        <link rel="stylesheet" href="style.css">
+        <section id="Header"><h1><b>DZIEŃ ZIEMI 2024</b></h1></section>
+        </header>
+    <main>
+        <title>DZIEN ZIEMI 2024</title>
+        <section id="menu">
+        <a href="index.html">Start</a><br><br><br><br><br>
+            
+            <a href="cmz.html">Co mogę zrobić?</a><br><br><br><br><br>
+
+            
+            <a href="linki.html">Linki</a><br><br><br><br><br>
+        </section>
+        <section id="menu2">
+          10 Sposobów aby ratować ekologię ziemi<br><br><br>
+          -Segreguj śmieci<br><br><br>
+          -Oszczędzaj wodę<br><br><br>
+          -Oszczędzaj energię<br><br><br>
+          -Buduj nawyki ZERO WASTE<br><br><br>
+          -Ogranicz zużycie plastiku i papieru<br><br><br>
+          -Dbaj o przyrodę<br><br><br>
+          -Ogranicz korzystanie z samochodu<br><br><br>
+          -Korzystaj z odnawialnych źródeł energii<br><br><br>
+          -Edukuj innych<br><br><br>
+          -Wprowadzaj elementy diet wegetariańskich i wegańskich<br><br><br>
+          </section>            
+    </main>
+    <section>
+    <footer>
+        <secion id="footer">Autor:Gabriel Bekier</secion>
+    </footer>
+    </section>
+</html>
